@@ -1,6 +1,6 @@
 var element=getElementById('madi');
 
-element.onclick=function()
+element.onClick=function()
 {
     element.style.marginleft='100px';
 };
