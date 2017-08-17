@@ -1,5 +1,5 @@
 var logo= getElemetById("main");
 logo.onclick=function()
 {
-    logo.style.marginright="100px";
+    logo.style.marginright='100px';
 }
