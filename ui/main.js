@@ -1,4 +1,4 @@
-var element=getElementById('madi');
+var element=document.getElementById('madi');
 
 element.onClick=function()
 {
