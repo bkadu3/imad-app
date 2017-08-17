@@ -1,5 +1,5 @@
-var logo= getElemetById('madi');
+var yoyo= getElemetById('madi');
 logo.onclick=function()
 {
-    logo.style.marginleft='100px';
+    yoyo.style.marginleft='100px';
 };
